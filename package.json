@@ -1,7 +1,7 @@
 {
-  "name": "FE-notes",
+  "name": "hui-notes",
   "version": "0.0.1",
-  "description": "FE notes",
+  "description": "my front end notes",
   "main": "index.js",
   "author": "huigeek",
   "license": "MIT",
